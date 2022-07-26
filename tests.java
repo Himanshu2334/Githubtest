@@ -1,4 +1,4 @@
-// Comment simple
+// Comment simple test of github
 class tests
 {
     public static void main(String args[])
